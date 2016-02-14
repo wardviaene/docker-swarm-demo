@@ -15,7 +15,7 @@
 ```docker run -d swarm join --advertise=192.168.0.246:2375 consul://192.168.0.248:8500```
 
 * To run swarm join on the agent3
-* 
+ 
 ```docker run -d swarm join --advertise=192.168.0.247:2375 consul://192.168.0.248:8500```
 
 * see cluster status
